@@ -1,13 +1,3 @@
-# SerialExperimentsLain
-Vim Colorscheme
+# PersonalExperimentsLain
 
-Colorscheme inspired by Serial Experiments Lain.
-
-Python Screenshot
-![alt text][python]
-
-Javascript Screenshot
-![alt text][javascript]
-
-[python]: https://github.com/lu-ren/SerialExperimentsLain/blob/master/screenshots/PythonScreenshot.png "Python Screenshot"
-[javascript]: https://github.com/lu-ren/SerialExperimentsLain/blob/master/screenshots/JavascriptScreenshot.png "Javascript Screenshot"
+I have forked this repo from lu-ren's [SerialExperimentsLain](https://github.com/lu-ren/SerialExperimentsLain) so I could personalize it. Feel free to use it if you like and bring in any issues or pull requests you find useful!
