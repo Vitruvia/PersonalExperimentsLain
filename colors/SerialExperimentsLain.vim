@@ -60,7 +60,7 @@ hi Character guifg=#a2a7a9 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NO
 hi Float guifg=#a2a7a9 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
 hi Number guifg=#a2a7a9 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
 hi Boolean guifg=#a2a7a9 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
-hi Operator guifg=#759fad guibg=NONE guisp=NONE gui=bold ctermfg=166 ctermbg=NONE cterm=bold
+hi Operator guifg=#d6498b guibg=NONE guisp=NONE gui=NONE ctermfg=166 ctermbg=NONE cterm=bold
 hi CursorLine guifg=NONE guibg=#222E30 guisp=#222E30 gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE
 hi TabLineFill guifg=#000224 guibg=#5f5e66 guisp=#5f5e66 gui=bold ctermfg=17 ctermbg=241 cterm=bold
 hi WarningMsg guifg=#a2a7a9 guibg=#912C00 guisp=#912C00 gui=NONE ctermfg=248 ctermbg=88 cterm=NONE
